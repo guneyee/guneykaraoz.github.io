@@ -1,0 +1,23 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: Projects
+  url: "/projects/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+- title: CV/Resume
+  url: "/cv/"
+  side: right
+
+- title: Contact
+  url: "/contact/"
+  side: right
