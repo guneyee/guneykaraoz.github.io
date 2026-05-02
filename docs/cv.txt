@@ -1,0 +1,73 @@
+GUNEY E.
+Software Developer
+
+CONTACT INFORMATION
+Email: guneykaraoz@hotmail.com
+Location: ANKARA
+GitHub: https://github.com/guneyee
+LinkedIn: https://Linkedin.com/in/guneykaraoz
+Website: https://guneyee.github.io
+
+PROFESSIONAL SUMMARY
+Passionate software developer with experience in web development and programming.
+Skilled in various technologies and always eager to learn new tools and frameworks.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Python, HTML, CSS
+Frameworks & Libraries: React, Node.js, Express.js
+Databases: MongoDB, PostgreSQL, MySQL
+Tools & Technologies: Git, Docker, AWS, Linux
+Other: REST APIs, Agile Development, Problem Solving
+
+PROFESSIONAL EXPERIENCE
+
+[Current/Recent Position Title]
+[Company Name], [Location]
+[Start Date] - [End Date]
+
+• [Key responsibility or achievement]
+• [Key responsibility or achievement]
+• [Key responsibility or achievement]
+• [Key responsibility or achievement]
+
+[Previous Position Title]
+[Company Name], [Location]
+[Start Date] - [End Date]
+
+• [Key responsibility or achievement]
+• [Key responsibility or achievement]
+• [Key responsibility or achievement]
+
+EDUCATION
+
+[Degree/Program Name]
+[University/Institution Name], [Location]
+[Graduation Date]
+• Relevant Coursework: [List key courses]
+• GPA: [Your GPA if applicable]
+• [Any honors, awards, or relevant activities]
+
+CERTIFICATIONS & TRAINING
+
+• [Certification Name] - [Issuing Organization] - [Date Earned]
+• [Certification Name] - [Issuing Organization] - [Date Earned]
+
+PROJECTS
+
+[Project Name]
+• Description: [Brief project description]
+• Technologies Used: [List technologies]
+• GitHub: [Link to repository]
+• Live Demo: [Link if available]
+
+[Project Name]
+• Description: [Brief project description]
+• Technologies Used: [List technologies]
+• GitHub: [Link to repository]
+
+REFERENCES
+Available upon request.
+
+---
+
+This is a placeholder CV. Please replace this file with your actual CV in PDF format.
