@@ -1,34 +1,53 @@
 ---
 layout              : page
-title               : "About"
-meta_title          : "About Guney E."
-subheadline         : "Software Developer & Technology Enthusiast"
-teaser              : "Learn more about my background, skills, and experience."
+title               : "Hakkımda"
+meta_title          : "Güney KARAOĞLU - Hakkımda"
+subheadline         : "Yazılım Geliştirici & Teknoloji Meraklısı"
+teaser              : "Arka planım, becerilerim ve profesyonel deneyimim hakkında bilgi edinin."
 permalink           : "/about/"
 ---
 
-## Hello! I'm Guney E.
+## Merhaba! Ben Güney KARAOĞLU 🚀
 
-I'm a passionate software developer with experience in web development and programming. I love creating innovative solutions and learning new technologies.
+Ankara Yıldırım Beyazıt Üniversitesi'nde Matematik okuyan, programlama, kripto tarih, veri bilimi, yapay zeka ve siber güvenliğe tutkunum olan bir yazılım geliştirici. **Blockchain teknolojisi, Web3 ve akıllı kontratlar** konusunda derinlemesine bilgi sahibiyim.
 
-### Skills & Technologies
+### 🎓 Eğitim
 
-- **Programming Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express
-- **Tools & Platforms**: Git, GitHub, VS Code, Docker
-- **Databases**: MongoDB, PostgreSQL
-- **Other**: REST APIs, Agile Development, Problem Solving
+- **Lisans Derecesi** - Matematik, Ankara Yıldırım Beyazıt Üniversitesi (2020 - Günümüz)
+- **Lise Diploması** - Mehmet Akif Ersoy Lisesi, Çorlu (2015-2019)
 
-### Experience
+### 💼 Profesyonel Deneyim
 
-[Add your professional experience here]
+- **Campus Arc Elçisi** | Campus ARC, Ankara (2026)
+- **İş Geliştirme Asistanı** | Bi'Tıkla Sigorta, İzmir (2024)
+- **Matematik Öğretmeni Stajyeri** | Ankara Liseesi (2024)
+- **Online Stajyer** | QNB Finansbank, Türkiye (2024)
+- **Spor Lider** | Decathlon, Çorlu (2024)
 
-### Education
+### 🛠️ Teknik Beceriler
 
-[Add your educational background here]
+**Programlama Dilleri:**
+C, C++, Python, Solidity, Rust, Motoko, JavaScript, TypeScript, MATLAB, Scala, MAPLE
 
-### Interests
+**Teknoloji & Frameworkler:**
+React, Node.js, Git, PyTorch, NumPy, Pandas, Matplotlib, SciPy, Ubuntu, UI Path
 
-When I'm not coding, I enjoy [add your hobbies and interests here].
+**Uzmanlık Alanları:**
+- 🔐 Kripto tarih & Akıllı Kontratlar
+- ⛓️ Blockchain Geliştirme (Sui, BNB Chain, Polkadot, ICP)
+- 🤖 Makine Öğrenmesi
+- 🌐 Bilgisayar Ağları
+- 🛡️ Siber Güvenlik
+- 💻 Linux & Sistem Yönetimi
 
-Feel free to [contact me](/contact/) or check out my [projects](/projects/)!
+### 🎖️ Sertifikalar
+
+22+ sertifika aldığım kuruluşlar arasında:
+- **Blockchain & Web3**: Solidity & BNB Chain (Rise In), Polkadot Substrate (Patika.Dev), Internet Computer Rust (Rise In)
+- **Siber Güvenlik**: CCNA CyberOps Associate (Cisco), Cybersecurity 101 (Akbank)
+- **Yapay Zeka & ML**: Machine Learning Bootcamp (Global AI Hub), Akbank Machine Learning 101
+- **Kurumsal**: CCNA Networks, Linux Networking, IBM Professional Skills
+
+---
+
+Daha fazla bilgi için [projelerime göz atın](/projects/) veya [benimle iletişime geçin](/contact/)!

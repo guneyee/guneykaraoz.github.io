@@ -1,36 +1,76 @@
 ---
 layout              : page
-title               : "Projects"
-meta_title          : "My Projects"
-subheadline         : "Portfolio of Work"
-teaser              : "Check out some of the projects I've worked on."
+title               : "Projelerim"
+meta_title          : "Güney KARAOĞLU - Projelerim"
+subheadline         : "Web3, Blockchain & Yazılım Projeleri"
+teaser              : "Blockchain teknolojisi, Web3 ve yazılım geliştirme alanında yaptığım projeleri keşfedin."
 permalink           : "/projects/"
 ---
 
-## My Projects
+## 🎯 Projelerim
 
-Here are some of the projects I've worked on. You can find more on my [GitHub profile](https://github.com/guneyee).
+Blockchain, Web3, makine öğrenmesi ve yazılım geliştirme alanında çalıştığım projeler:
 
-### Featured Projects
+### ⛓️ Blockchain & Web3 Projeleri
 
-#### Project 1
-**Description**: [Brief description of the project]
+#### Sui Plus - NFT Kiralama Pazaryeri
+**Sui Hackathon 2026**
+- Sui blockchain üzerinde merkeziyetsiz NFT kiralama ve pazaryeri platformu geliştirdim
+- Güvenli akıllı kontratlar uyguladım (NFT ödünç verme, ödünç alma ve ticaret işlevleri)
+- **Teknolojiler**: Solidity, Sui Blockchain, Smart Contracts
+- **GitHub**: [Sui Plus Repository](https://github.com/guneyee)
 
-**Technologies**: [List of technologies used]
+#### BNB Chain Güvenli Akıllı Kontratlar
+**2024**
+- BNB Chain üzerinde blockchain tabanlı işlemler için güvenli akıllı kontratlar geliştirdim
+- Robust hata yönetimi ve gas optimizasyonu uyguladım
+- **Teknolojiler**: Solidity, BNB Chain, Gas Optimization
+- **GitHub**: [BNB Smart Contracts Repository](https://github.com/guneyee)
 
-**Links**: [GitHub](https://github.com/guneyee/project1) | [Live Demo](https://project1-demo.com)
+#### Web3 Müzayedesi (Auction DApp)
+**2023**
+- Web3 teknolojileri ve akıllı kontratları kullanarak merkeziyetsiz müzayede platformu inşa ettim
+- Blockchain teknolojisi entegre ederek güvenli ve şeffaf teklif süreci sağladım
+- **Teknolojiler**: Web3.js, Smart Contracts, Ethereum
+- **GitHub**: [Web3 Auction DApp](https://github.com/guneyee)
 
-#### Project 2
-**Description**: [Brief description of the project]
+#### ICP Internship Projesi - Merkeziyetsiz Uygulama
+**2024**
+- Internet Computer Protocol (ICP) kullanarak merkeziyetsiz uygulama geliştirdim
+- Ölçeklenebilirlik ve performans optimizasyonuna odaklandım
+- **Teknolojiler**: Motoko, Internet Computer, Smart Contracts
+- **GitHub**: [ICP Project Repository](https://github.com/guneyee)
 
-**Technologies**: [List of technologies used]
+#### ParkingDot - Blockchain Tabanlı Otopark Sistemi
+**2024**
+- Akıllı kontrat kullanarak blockchain tabanlı otopark yönetim sistemi tasarladım ve uyguladım
+- Gerçek zamanlı takip ve merkeziyetsiz ödeme işlemesi etkinleştirdim
+- **Teknolojiler**: Solidity, Smart Contracts, Blockchain
+- **GitHub**: [ParkingDot Repository](https://github.com/guneyee)
 
-**Links**: [GitHub](https://github.com/guneyee/project2) | [Live Demo](https://project2-demo.com)
+### 📊 Akademik & Araştırma Projeleri
 
-### Open Source Contributions
+#### MATLAB ile Sayısal Yaklaşım Teknikleri
+**Lise Bitirme Projesi - 2023**
+- MATLAB kullanarak enterpolasyon, diferansiyasyon ve integrasyon gibi sayısal yaklaşım yöntemlerini uyguladım
+- Çeşitli sayısal tekniklerin matematiksel problemler çözmekteki performansını analiz ettim
+- Kapsamlı rapor ve sunum hazırladım
 
-I actively contribute to open source projects. Check out my [GitHub profile](https://github.com/guneyee) to see my contributions.
+#### Soyut Cebir Uygulaması
+**Mezuniyet Projesi - 2024**
+- Cebirin temel alanlarını (ifadeler, ilişkiler, cebirsel ikame) araştırdım
+- Cebirsel problemler için sayısal yöntemler uyguladım
+- Reel sayı aksiyomları ve küme teorisi gibi cebirsel özellikleri analiz ettim
 
-### Get In Touch
+---
 
-Interested in collaborating? [Contact me](/contact/) to discuss potential projects!
+### 📱 Diğer Beceriler
+
+- **Frontend**: React, HTML5, CSS3, JavaScript, TypeScript
+- **Backend**: Node.js, Python
+- **Mobil**: React Native
+- **Araçlar**: Git, GitHub, Docker, VS Code
+
+### 🔗 Beni Takip Edin
+
+Tüm projelerime [GitHub profilimde](https://github.com/guneyee) göz atabilirsiniz. İşbirliği yapmakla ilgileniyorsanız [benimle iletişime geçin](/contact/)!

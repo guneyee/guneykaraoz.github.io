@@ -2,12 +2,24 @@
   url: "/"
   side: left
 
-- title: About
+- title: Hakkımda
   url: "/about/"
   side: left
 
-- title: Projects
+- title: Projeler
   url: "/projects/"
+  side: left
+
+- title: Beceriler
+  url: "/skills/"
+  side: left
+
+- title: Deneyim
+  url: "/experience/"
+  side: left
+
+- title: Sertifikalar
+  url: "/certificates/"
   side: left
 
 - title: Blog
@@ -18,6 +30,6 @@
   url: "/cv/"
   side: right
 
-- title: Contact
+- title: İletişim
   url: "/contact/"
   side: right

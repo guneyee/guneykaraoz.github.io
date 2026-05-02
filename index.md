@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "My Projects"
+  title: "🎯 Projelerim"
   url: '/projects/'
   image: widget-1-302x182.jpg
-  text: 'Check out my latest projects and work. From web applications to open source contributions, see what I&#39;ve been building.'
+  text: 'Blockchain, Web3 ve yazılım geliştirme projelerim. Akıllı kontratlardan veri bilimi uygulamalarına kadar çalıştığım projeleri keşfedin.'
 widget2:
-  title: "About Me"
+  title: "ℹ️ Hakkımda"
   url: '/about/'
-  text: 'Learn more about my background, skills, and experience as a software developer. Discover my journey in technology and what drives my passion for coding.'
+  text: 'Matematik öğrencisi, blockchain geliştirici ve siber güvenlik meraklısı. Kariyer yolculuğum ve teknolojiye tutkum hakkında bilgi edinin.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "My GitHub"
+  title: "💻 GitHub"
   url: 'https://github.com/guneyee'
   image: widget-github-303x182.jpg
-  text: 'Explore my code repositories, contributions, and open source projects on GitHub. See the technologies I work with and my coding style.'
+  text: 'Tüm açık kaynak projelerim, katkılarım ve kod örneklerim GitHub profilimde. Blockchain ve Web3 projelerini buradan takip edebilirsiniz.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: /cv/
-  text: Download My CV ›
+  text: CV'mi İndir ›
   style: alert
 permalink: /index.html
 #
